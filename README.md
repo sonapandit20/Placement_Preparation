@@ -13,4 +13,4 @@ Hey there! Welcome to my Placement Preparation Journey.
 
 Hi! From Today I am Starting my DSA after Successfully Completed Basic Java:
 
-* **Largest Element:** Learnt how to find found largest element in an Array.
+* **Largest Element:** Learnt how to find  largest element in an Array.
