@@ -17,3 +17,4 @@ Hi! From Today I am Starting my DSA after Successfully Completed Basic Java:
 * **Second Largest Element:** finding second largest element in an array using two loops , 1st found out largest element and then using largest element finding second largest element.
 * **Second largest element optimized:** finding out Second largest element in an array using optimized method (one value pass).
 * **Array Reverse:** Added , How to Reverse an Array, Code.
+* **LinearSearch:** Added , How to search  an element in Array using Linear Search.
